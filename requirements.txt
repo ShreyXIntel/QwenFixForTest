@@ -1,0 +1,29 @@
+# Core dependencies
+torch
+transformers
+numpy
+Pillow
+pyautogui
+
+# Vision model
+accelerate
+sentencepiece
+protobuf
+einops
+timm
+
+# Windows-specific
+pywin32
+
+# UI and interaction
+opencv-python
+mss  # Fast screenshot capture
+
+# Utilities
+tqdm0
+colorlog
+rich0  # Better console output
+
+# Optional but recommended
+bitsandbytes0  # For 8-bit/4-bit model quantization
+flash-attn  # Faster attention implementation
