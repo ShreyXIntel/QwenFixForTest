@@ -55,7 +55,7 @@ The Automated Game Benchmarking System uses computer vision and AI to intelligen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/game-benchmarker.git
+   git clone https://github.com/ShreyXIntel/QwenFixForTest.git
    cd game-benchmarker
    ```
 
