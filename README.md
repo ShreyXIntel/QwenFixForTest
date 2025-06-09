@@ -59,14 +59,8 @@ The Automated Game Benchmarking System uses computer vision and AI to intelligen
    cd game-benchmarker
    ```
 
-2. **Set up a virtual environment (recommended):**
-   ```bash
-   python -m venv venv
-   # On Windows
-   venv\Scripts\activate
-   # On Linux/macOS
-   source venv/bin/activate
-   ```
+2. **You need not set up a virtual environment**
+   We are facing some issues while installing dependencies and packages to a venv. Instead when installed in global env. the project works.
 
 3. **Install dependencies:**
    ```bash
